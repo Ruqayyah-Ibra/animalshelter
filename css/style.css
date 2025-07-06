@@ -20,3 +20,12 @@
    
 
 }
+
+.container h1 {
+   text-align: center;
+   padding: 20px;
+}
+
+.container img {
+   width: 100%;
+}

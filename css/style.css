@@ -1,6 +1,11 @@
 *{
    margin: 0;
    padding: 0;
+   width: 100%;
+}
+
+img {
+   width: 100%;
 }
 
 .header {
@@ -17,15 +22,27 @@
 
 .hero img {
    width: 100%;
-   
 
 }
 
 .container h1 {
    text-align: center;
    padding: 20px;
+   text-transform: uppercase;
 }
 
 .container img {
    width: 100%;
+}
+
+.safe h1 {
+   text-align: center;
+   padding: 20px;
+   text-transform: uppercase;
+}
+
+.safe img {
+   width: 100%;
+   
+
 }
